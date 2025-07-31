@@ -1,5 +1,4 @@
-# Linkloom-Core
-Connection is Made
+
 README.md
 # Linkloom-Core
 
@@ -16,5 +15,5 @@ A newsletter exploring connection, creativity, and code.
 - 🌐 Web: Networked resonance
 
 ## 📄 Entries
-- [Entry 01: The Loom Begins](entries/entry01.md)
-- [Entry 02: Glyph Sketches](entries/entry02.md)
+- [: The-Loom-Begins](entries/entry01-the-loom-begins.md)
+- [Entry 02: Glyph Sketches](entries/entry02-glyph-sketches.md)
