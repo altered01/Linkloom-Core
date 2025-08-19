@@ -34,3 +34,55 @@
 - [Privacy Dashboard](https://account.microsoft.com/privacy)  
 - [Trust & Safety](https://aka.ms/trustandsafety)  
 - [Agreement Overview](https://www.microsoft.com/en-ie/servicesagreement/upcoming)
+
+refactor: replace Governance file with modular README scaffold
+# 🏛️ Governance Core – Linkloom Framework
+
+This module operationalizes key governance principles within the *unseen-architect* framework. It includes summaries of external agreements, internal usage policies, and automated compliance checklists.
+
+---
+
+## 📦 Contents
+
+- `msa-summary.md` – Microsoft Services Agreement summary and implications
+- `copilot-guidelines.md` – Internal AI usage policy (in progress)
+- `checklist.yaml` – Modular governance checklist for automation
+- `.github/workflows/governance-checklist.yml` – GitHub Action to track progress (optional)
+- `README.md` – This file
+
+---
+
+## 🎯 Purpose
+
+To reduce chaos and increase transparency by embedding governance directly into the development environment. This module supports:
+
+- Scalable onboarding
+- Automated compliance tracking
+- Modular documentation for collaborators
+
+---
+
+## 🚧 Status
+
+| Module                | Progress   |
+|----------------------|------------|
+| MSA Summary           | ✅ Drafted |
+| Copilot Guidelines    | ⏳ In Progress |
+| Checklist Integration | ⏳ Pending |
+| Automation Workflow   | ⏳ Optional |
+
+---
+
+## 🧠 Next Steps
+
+1. Finalize `copilot-guidelines.md`
+2. Update `checklist.yaml` with current status
+3. (Optional) Add GitHub Action for auto-tracking
+
+---
+
+## 🤝 Contributions
+
+Collaborators can suggest updates via PRs or issues. Please follow the onboarding guide (coming soon) for contribution standards.
+
+
